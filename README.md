@@ -27,10 +27,7 @@ Backend developer focused on systems & security
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TioXin&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioXin&layout=compact&theme=dark" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=TioXin&theme=dark" />
@@ -46,7 +43,7 @@ Backend developer focused on systems & security
 ---
 
 ## 💀 Mindset
-> I like to understand how systems work, how they break — and how to secure them.
+> I like to understand how systems work, how they break, and how to secure them.
 
 ---
 
