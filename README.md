@@ -52,8 +52,3 @@ Backend developer focused on systems & security
 > Full backend system built from scratch (management, logic, structure)
 
 ---
-
-## ⚡ Extras
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TioXin&color=green" />
-</p>
